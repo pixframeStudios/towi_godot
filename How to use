@@ -1,0 +1,11 @@
+## First Steps
+After the installation process you can see the plugin in the addons folder on your project with the name towi_godot. This folder contains 3 folders and a gd file: Assets, Editor and Runtime and towi.gd
+
+##Main folders
+In the Assets folder contains the UI material you can use like a grid with many button icons, the panel asset and the NunitoFont to create a standard wiht the text.
+
+###Editor
+The Editor folder contains 2 .gd scripts and a n icon.
+The first script is GameUICreator and contains many functions to create the User Interface. It is designed to make the process easier to make a canva or configure the camera for a 2D game.
+
+The second script is TowiGameManager only contains 2 functions to configure general aspects of the game such as the name for the game, the number of rounds meant to play, and the points assigned to each round.

@@ -18,7 +18,6 @@ What things you need to install the software and how to install them
 
 ```
 
-Knowledge in C#
 Knowledge in Godot and GDScript
 Godot 3.4.4
 

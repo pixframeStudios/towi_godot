@@ -6,7 +6,7 @@ This is a plugin made to interacta with Pixframe Studios Towi platforms wich all
 
 To get started with the Towi Plugin for Godot, see:
 
-* [Towi for Godot](http://towi.com.mx/)
+* [What is Towi](http://towi.com.mx/)
 
 ### Prerequisites
 This are the prerequisites to install Towi on Godot.
@@ -25,12 +25,11 @@ Godot 3.4.4
 ```
 ## Built With
 
-
 * [Godot Engine] - The game engine used.
 
 ## Installing
 
-# Godot Method
+### Godot Method
 
 1. In Godot Engine create a project or open a project
 2. Download this project as a ZIP

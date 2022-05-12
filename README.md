@@ -2,6 +2,19 @@
 
 This is a plugin made to interacta with Pixframe Studios Towi platforms wich allow creators to create new Serious games and connected to Towi.com.mx to create reports and other things.
 
+## Mission and Vission Statements
+```
+
+Mission statement
+Towi for Godot is a plugin that helps developers create serious new games
+
+
+Vision statement
+The Towi plugin seeks to bring developers closer to the Godot engine to create a community and generate serious video game experiences
+
+
+```
+
 ## Get started
 
 To get started with the Towi Plugin for Godot, see:

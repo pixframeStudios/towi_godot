@@ -49,6 +49,12 @@ Godot 3.4.4
 4. In Godot Engine go to Project > Project Settings. Search the Plugins Tab
 5. Search towi_godot and turn the plugin to Active
 
+#Deployment Instructions
+
+You can check how to use the plugin in Godot here [How to use] (https://github.com/pixframeStudios/towi_godot/blob/main/How%20to%20use)
+
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/pixframe/towi/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.

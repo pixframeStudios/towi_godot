@@ -51,7 +51,7 @@ Godot 3.4.4
 
 # Deployment Instructions
 
-You can check how to use the plugin in Godot here [How to use](https://github.com/pixframeStudios/towi_godot/blob/main/How%20to%20use)
+You can check how to use the plugin in Godot here [How to use](https://github.com/pixframeStudios/towi_godot/blob/main/How%20to%20use.md)
 
 
 

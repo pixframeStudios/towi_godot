@@ -19,9 +19,9 @@ The script is GameUICreator and contains many functions to create the User Inter
 
 ### Runtime
 Runtime is the folder with more scripts to help in the development process. The folder contains 5 .gd scripts.
-The first one is GameResultPanel, it works to create a Result Panel when the player finishes a game. It contains one function called ShowCalification and extends from Towi Enums.
-The second script is Towi Enum. It contains two enums to get and set variables. The first enums corresponds to GamePhase, and the second one to GameResult
-The third script is TowiGameManger. Here you can set variables as GameName, rounds, score and many texts. The idea is that you create a unique GameManger that extends form TowiGameManger.
-The fourth script is TowiMath, only contains the GetResult function that helps to set a score for a game. It extends from TowiEnums
-The fifth script and last one script is TowiUtils, it extends from a Spatial Node and only contains de GetScreenSize function.
+- The first one is GameResultPanel, it works to create a Result Panel when the player finishes a game. It contains one function called ShowCalification and extends from Towi Enums.
+- The second script is Towi Enum. It contains two enums to get and set variables. The first enums corresponds to GamePhase, and the second one to GameResult
+- The third script is TowiGameManger. Here you can set variables as GameName, rounds, score and many texts. The idea is that you create a unique GameManger that extends form TowiGameManger.
+- The fourth script is TowiMath, only contains the GetResult function that helps to set a score for a game. It extends from TowiEnums
+- The fifth script and last one script is TowiUtils, it extends from a Spatial Node and only contains de GetScreenSize function.
 

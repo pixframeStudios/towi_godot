@@ -4,9 +4,14 @@ After the installation process you can see the plugin in the addons folder on yo
 
 ## Main folders
 ### Assets
-The Assets folder contains the UI material you can use like a grid with many button icons
-![grid](https://github.com/pixframeStudios/towi_godot/blob/main/towi_godot/Assets/UI/GridBotones.png) 
-a folder with all buttons one by one, the panel asset, a purple button asset, a star asset and the NunitoFont to create a standard with the text.
+The Assets folder contains the UI material you can use like a grid with many button icons, the panel asset, a purple button asset, a star asset and the NunitoFont to create a standard with the text.
+
+#### GRID
+![grid](https://github.com/pixframeStudios/towi_godot/blob/main/towi_godot/Assets/UI/GridBotones.png)
+#### Panel
+![panel](https://github.com/pixframeStudios/towi_godot/blob/main/towi_godot/Assets/UI/Panel.png)
+#### Star
+![star](https://github.com/pixframeStudios/towi_godot/blob/main/towi_godot/Assets/UI/Star.png)
 
 ### Editor
 The Editor folder contains 1 .gd script and an icon.

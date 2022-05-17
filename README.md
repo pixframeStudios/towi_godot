@@ -77,7 +77,3 @@ See also the list of [contributors](https://github.com/pixframe/towi_portal/cont
 
 This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/pixframeStudios/towi_godot/blob/main/LICENSE) file for details
 
-
-## API reference
-
-* [Towi for Unity and Godot Reference](http://towi.com.mx/)

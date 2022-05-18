@@ -70,7 +70,7 @@ The [Discussion tab](https://github.com/pixframeStudios/towi_godot/discussions) 
 * **Pixframe Studios SAPI de CV**  - [Pixframe Studios](https://www.pixframestudios.com)
 
 
-See also the list of [contributors](https://github.com/pixframe/towi_portal/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pixframeStudios/towi_godot/blob/main/CONTRIBUTORS.md) who participated in this project.
 
 ## License
 

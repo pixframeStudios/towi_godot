@@ -59,6 +59,10 @@ You can check how to use the plugin in Godot here [How to use](https://github.co
 
 Please read [CONTRIBUTING.md](https://github.com/pixframe/towi/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Roadmap
+To see our future steps in the project [click here](https://airtable.com/shruJkF6MHV6wLmzo)
+
+
 ## Discussion
 
 The [Discussion tab](https://github.com/pixframeStudios/towi_godot/discussions) is available for developers and contributors. Please take your time to read the new updates, and post any doubt.

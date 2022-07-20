@@ -1,6 +1,9 @@
 ## First Steps
 After the installation process you can see the plugin in the addons folder on your project with the name towi_godot. Don´t forget to get active the plugin in Project Settings, in the Plugin tab.This folder contains 3 folders and a gd file: Assets, Editor and Runtime and towi.gd
 
+## Project Tutorial
+If you are new in Godot Engine you can see a few videos to begin a new project.
+https://towi.thinkific.com/
 
 ## Main folders
 ### Assets

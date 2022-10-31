@@ -11,13 +11,13 @@ var historyIndex = 0;
 
 ##
 var initialText
-var tutorialText;
-var confirmationText;
-var positiveRoundResultText;
-var negativeRoundResultText;
-var finalPositiveResultText;
-var finaNegativelResultText;
-var bonusText;
+var tutorialText
+var confirmationText
+var positiveRoundResultText
+var negativeRoundResultText
+var finalPositiveResultText
+var finaNegativelResultText
+var bonusText
 
 
 
